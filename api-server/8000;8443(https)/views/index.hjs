@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  {{> header}}
+  <body>
+    {{> page_header}}
+    <div id="body-container">
+      <div id="body-content">
+        {{> nav }}
+	    <section class="page container">
+          <div class="row">
+            <div class="span4">
+              <div class="box pattern pattern-sandstone">
+                <div class="box-header">
+                  This is demo for js web<br>
+                  <a href="index.html">index.html</a>
+                </div>
+              </div>
+	        </div>
+          </div>
+	    </section>
+      </div>
+    </div>
+    <div id="spinner" class="spinner" style="display:none;">
+      Loading&hellip;
+    </div>
+    {{> footer}}
+
+  </body>
+</html>

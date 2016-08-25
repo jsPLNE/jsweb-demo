@@ -1,0 +1,35 @@
+<div class="body-nav body-nav-horizontal body-nav-fixed">
+  <div class="container">
+    <ul>
+      <li>
+        <a href="/">
+          <i class="icon-dashboard icon-large"></i>运行状态
+        </a>
+      </li>
+      <li>
+        <a href="set-jnode">
+          <i class="icon-home icon-large"></i>警云设置
+        </a>
+      </li>
+      <!-- <li> -->
+      <!--   <a href="set-relay"> -->
+      <!--     <i class="icon-cloud icon-large"></i>转发服务 -->
+      <!--   </a> -->
+      <!-- </li> -->
+      <li>
+        <a href="set-net">
+          <i class="icon-cogs icon-large"></i>网络设置
+        </a>
+      </li>
+      <li>
+        <a href="set-pwd">
+          <i class="icon-key icon-large"></i>密码设置
+        </a>
+      </li>
+      <li>
+      <a><i id="submit-confirm-button" class="icon-ok icon-large"></i>保存修改</a>
+      </li>
+    </ul>
+  </div>
+</div>
+

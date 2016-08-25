@@ -1,0 +1,23 @@
+<div class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <button class="btn btn-navbar" data-toggle="collapse" data-target="#app-nav-top-bar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="/" class="brand"><i class="icon-leaf">jsweb demo header</i></a>
+      <div id="app-nav-top-bar" class="nav-collapse">
+        <ul class="nav">
+        </ul>
+        <ul class="nav pull-right">
+          <li>
+            <a href="logout">注消</a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
